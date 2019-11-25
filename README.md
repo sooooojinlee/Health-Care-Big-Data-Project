@@ -1,4 +1,4 @@
-# Health-Care-Big-Data-Project
+#  :woman_health_worker: Health-Care-Big-Data-Project :man_health_worker:
 
 Overview
 -------------------------------
@@ -18,7 +18,7 @@ Dataset
  * **hospital_medical_sub_spec.csv** : 병원 진료 과목 정보 데이터  
 
 
-Timeline
+:calendar: Timeline
 -------------------------------
 |date|day|note|
 |:-----:|:-----:|:------|
@@ -59,7 +59,7 @@ The following technologies were used for this part of the project:
 * Pandas: Python package for data analysis.
 * Matplotlib and Seaborn: Python 2D plotting library.
 
-Reference
+:file_cabinet: Reference
 ----------------------------------------------
 |#|title|source|note|
 |:----:|:-----|:-------|:------|
@@ -72,7 +72,7 @@ Reference
 |7|[일반적으로 잘 알려져 있는 심혈관질환의 위험인자](https://www.circulation.or.kr:4443/bbs/index.php?code=int&category=&gubun=&page=1&number=6896&mode=view&keyfield=all&key=)|대한심장학회|중증질환의 주요 위험인자인 대사증후군 진단 기준 참고|  
 
 
-Appendix
+:link: Appendix
 ----------------------------------------------
 #### 국가건강검진 건강위험평가 개선 참고 페이지  
 **p.37~64** 예측 모형에 대한 설명  
